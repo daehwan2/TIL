@@ -3,7 +3,7 @@
 ### 리액트에서 tailwindCSS 사용법
 
 1. 라이브러리 설치
-`npm i -d autoprefixer postcss tailwindcss`
+`npm i -D autoprefixer postcss tailwindcss`
 
 2. postcss.config.js 작성 (package.json 과 같은 위치)
 ```javascript
