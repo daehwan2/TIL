@@ -7,8 +7,8 @@
 
 # useMemo
 
-**성능 최적화를 위하여 연산된 값을 재사용하는 기능을 가진 함수**
-**memorization된 값을 반환한다.**
+- **성능 최적화를 위하여 연산된 값을 재사용하는 기능을 가진 함수**
+- **memorization된 값을 반환한다.**
 ```jsx
 //App.js
 
@@ -124,8 +124,8 @@ export default ShowState;
 ```
 
 # useCallback
-**memorization된 함수를 반환한다.**
-**특정함수를 새로만들지 않고 재사용하고 싶을때 사용한다.**
+- **memorization된 함수를 반환한다.**
+- **특정함수를 새로만들지 않고 재사용하고 싶을때 사용한다.**
 ```jsx
 //App.js
 
@@ -224,5 +224,6 @@ export default App
 
 
 참조 사이트
-https://velog.io/@kysung95/%EC%A7%A4%EB%A7%89%EA%B8%80-useCallback%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90
-https://velog.io/@kysung95/%EC%A7%A4%EB%A7%89%EA%B8%80-useMemo
+
+- https://velog.io/@kysung95/%EC%A7%A4%EB%A7%89%EA%B8%80-useCallback%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90
+- https://velog.io/@kysung95/%EC%A7%A4%EB%A7%89%EA%B8%80-useMemo
