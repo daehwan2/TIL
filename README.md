@@ -11,7 +11,7 @@
 - JavaScript
   - [ [...],{...} 문법 ](https://github.com/daehwan2/TIL/blob/main/Javascript/%7B...%7D%2C%20%5B...%5D%20%EB%AC%B8%EB%B2%95/README.md) 
 
-- React.js
+- React
   - 함수형 컴포넌트
     - 훅스
       - [useCallback, useMemo](https://github.com/daehwan2/TIL/blob/main/React/%ED%95%A8%EC%88%98%ED%98%95%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8/%ED%9B%85%EC%8A%A4/useMemo%2C%20useCallback/README.md)
