@@ -17,3 +17,6 @@
       - [useCallback, useMemo](https://github.com/daehwan2/TIL/blob/main/React/%ED%95%A8%EC%88%98%ED%98%95%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8/%ED%9B%85%EC%8A%A4/useMemo%2C%20useCallback/README.md)
 
 - [CSR, SSR, SSG](https://github.com/daehwan2/TIL/blob/main/CSR%2C%20SSR%2C%20SSG/README.md)
+
+- CSS
+  - [반응형 이미지 종횡비 맞추기 ( padding, margin 에 % 값을 줄 경우 )](https://github.com/daehwan2/TIL/blob/15c950001dc7d79cb9d30938122b5a9b61a1d20a/CSS/padding%2C%20margin%20%EC%97%90%20%25%EB%A5%BC%20%EC%A4%84%20%EA%B2%BD%EC%9A%B0/README.md)
