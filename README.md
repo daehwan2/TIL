@@ -20,3 +20,4 @@
 
 - CSS
   - [반응형 이미지 종횡비 맞추기 ( padding, margin 에 % 값을 줄 경우 )](https://github.com/daehwan2/TIL/blob/15c950001dc7d79cb9d30938122b5a9b61a1d20a/CSS/padding%2C%20margin%20%EC%97%90%20%25%EB%A5%BC%20%EC%A4%84%20%EA%B2%BD%EC%9A%B0/README.md)
+  - [라인 글자 길어졌을때 ... 처리 line-clamp](https://github.com/daehwan2/TIL/blob/main/CSS/line-clamp/README.md)
