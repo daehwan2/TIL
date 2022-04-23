@@ -33,3 +33,6 @@ div img{
                       // 이때 postion absolute를 설정하면 height가 정상적으로 작동한다. 그래서 중앙정렬시켜준다.
 }
 ```
+
+
+관련 커밋 578e43fabfe02e1ccf6e2360b3de48d36abbca51
