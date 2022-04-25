@@ -2,7 +2,7 @@
 
 gitflow 정리
 
-![gitflow](./images/gitflow.png)
+![gitflow](./gitflow.png)
 
 브랜치를 master, develop, feature, release, hotfixes로 구분해서 저장소를 운영합니다.
 master에는 완성된 버전만이 속해야 합니다. 언제나 실행 가능해야 합니다. 실제 개발은 develop에서 진행합니다. 신규 기능은 'feature/기능명'으로 구분해서 쉽게 버릴 수 있도록 하고 있습니다. 출시 준비는 'release/버전명'에서 진행하고 준비가 끝나면 master로 병합합니다. 긴급 수정사항은 'hotfixes/차기버전명'을 이용합니다.
@@ -74,4 +74,4 @@ git tag 1.1
 git branch -d hotfixes/1.1
 ```
 
-![result](./images/cap1.png)
+![result](./cap1.png)
