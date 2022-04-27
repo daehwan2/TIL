@@ -22,6 +22,7 @@
   - [반응형 이미지 종횡비 맞추기 ( padding, margin 에 % 값을 줄 경우 )](https://github.com/daehwan2/TIL/blob/15c950001dc7d79cb9d30938122b5a9b61a1d20a/CSS/padding%2C%20margin%20%EC%97%90%20%25%EB%A5%BC%20%EC%A4%84%20%EA%B2%BD%EC%9A%B0/README.md)
   - [라인 글자 길어졌을때 ... 처리 line-clamp](https://github.com/daehwan2/TIL/blob/main/CSS/line-clamp/README.md)
   - [한줄에 글자가 길어졌을때 ... 처리 truncate](https://github.com/daehwan2/TIL/blob/main/CSS/%ED%95%9C%EC%A4%84%EC%97%90%20%EA%B8%80%EC%9E%90%EA%B0%80%20%EB%A7%8E%EC%95%84%EC%A1%8C%EC%9D%84%EB%95%8C%20...%20%EC%B2%98%EB%A6%AC/README.md)
+  - [속성 선택자](https://github.com/daehwan2/TIL/tree/main/CSS/%EC%86%8D%EC%84%B1%EC%84%A0%ED%83%9D%EC%9E%90/README.md)
 
 - Git / Github
   - [commit 메시지 수정법](https://github.com/daehwan2/TIL/tree/main/Git/commit%20%EB%A9%94%EC%8B%9C%EC%A7%80%20%EC%88%98%EC%A0%95%EB%B2%95/)
