@@ -15,6 +15,7 @@
   - 함수형 컴포넌트
     - 훅스
       - [useCallback, useMemo](https://github.com/daehwan2/TIL/blob/main/React/%ED%95%A8%EC%88%98%ED%98%95%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8/%ED%9B%85%EC%8A%A4/useMemo%2C%20useCallback/README.md)
+  - [boiler-plate react redux, 간단 정리](https://github.com/daehwan2/boiler-plate/tree/master/client)
 
 - [CSR, SSR, SSG](https://github.com/daehwan2/TIL/blob/main/CSR%2C%20SSR%2C%20SSG/README.md)
 
