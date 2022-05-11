@@ -16,6 +16,8 @@
     - 훅스
       - [useCallback, useMemo](https://github.com/daehwan2/TIL/blob/main/React/%ED%95%A8%EC%88%98%ED%98%95%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8/%ED%9B%85%EC%8A%A4/useMemo%2C%20useCallback/README.md)
   - [boiler-plate react redux, 간단 정리](https://github.com/daehwan2/boiler-plate/tree/master/client)
+  - [리액트 리덕스 간단 정리(생활코딩)](https://github.com/daehwan2/TIL/tree/main/Redux/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%A6%AC%EB%8D%95%EC%8A%A4%20%EC%82%AC%EC%9A%A9%20%EC%98%88%EC%8B%9C%20(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%20%ED%9B%85%EC%8A%A4)/README.md)
+  - [Vanilla Redux Node로 구현](https://github.com/daehwan2/TIL/blob/main/Redux/Vanilla%20Redux%20node%EB%A1%9C%20%EA%B5%AC%ED%98%84/README.md)
 
 - [CSR, SSR, SSG](https://github.com/daehwan2/TIL/blob/main/CSR%2C%20SSR%2C%20SSG/README.md)
 
