@@ -49,10 +49,14 @@ export default Home;
 
 ![image](https://user-images.githubusercontent.com/53414542/176185608-23b6b01e-a51b-46d4-85cc-a41607c2bb25.png)
 
----
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## match
 match 객체에는 Route path와 URL의 매칭에 대한 정보를 가지고 있다.
+
 ![image](https://user-images.githubusercontent.com/53414542/176185838-400d2972-07c7-4536-8b3e-41e3fe99fea3.png)
 
 - isExact: true 이면 경로가 완전히 정확할 경우에만 수행한다.
@@ -60,15 +64,24 @@ match 객체에는 Route path와 URL의 매칭에 대한 정보를 가지고 있
 - path: Route에 정의된 경로
 - url: 클라이언트로부터 실제 요청 받은 경로
 
+<br/>
+<br/>
+
 ## location
 location 객체는 현재 페이지에 대한 정보를 가지고 있다.
+
 ![image](https://user-images.githubusercontent.com/53414542/176186219-b936257b-0c3e-4ffa-9ace-bf0347630f49.png)
+
 - hash: 현재 페이지의 hash 값
 - pathname: 현재 페이지의 경로
 - search: 현재 페이지의 hash값 ( 이를 사용해서 querystring을 가져올 수 있다.)
 
+<br/>
+<br/>
+
 ## history
 history 객체는 브라우저의 history api에 접근한다.
+
 ![image](https://user-images.githubusercontent.com/53414542/176186443-eca0d89c-a4f7-4187-b364-a696d4a00ab7.png)
 
 - action: 최근에 수행된 action(push, pop, replace)
